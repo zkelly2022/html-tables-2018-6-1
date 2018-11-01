@@ -17,6 +17,5 @@ h1 {
 }
 
 table, th, td {
-  /*Put your table styling here. */
   border: 1px solid black;
 }
